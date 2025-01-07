@@ -1,0 +1,21 @@
+Food,Calories,Protein,Carbohydrates,Fat,Category,HealthLabels
+Oatmeal,150,6.0,27.0,3.0,breakfast,vegetarian
+Eggs,70,6.0,0.6,5.0,breakfast,keto
+Chicken Breast,165,31.0,0.0,3.6,"lunch,dinner","low-carb,keto"
+Brown Rice,216,5.0,45.0,1.8,"lunch,dinner",vegetarian
+Salmon,208,22.0,0.0,13.0,"lunch,dinner",low-carb
+Greek Yogurt,100,17.0,6.0,0.7,"breakfast,snack","vegetarian,low-carb"
+Sweet Potato,103,2.0,24.0,0.2,"lunch,dinner",vegetarian
+Quinoa,120,4.0,21.0,1.9,"lunch,dinner",vegetarian
+Broccoli,55,3.7,11.0,0.6,"lunch,dinner","vegetarian,vegan,keto"
+Almonds,164,6.0,6.0,14.0,snack,"vegetarian,vegan"
+Banana,105,1.3,27.0,0.3,"breakfast,snack","vegetarian,vegan"
+Apple,95,0.5,25.0,0.3,snack,"vegetarian,vegan"
+Whole Wheat Bread,69,3.6,12.0,1.0,"breakfast,lunch",vegetarian
+Tuna,120,26.0,0.0,1.0,"lunch,dinner",low-carb
+Spinach,23,2.9,3.6,0.4,"lunch,dinner","vegetarian,vegan,keto"
+Lentils,230,18.0,40.0,0.8,"lunch,dinner","vegetarian,vegan"
+Black Beans,132,15.0,24.0,0.5,"lunch,dinner","vegetarian,vegan"
+Cottage Cheese,120,14.0,3.0,5.0,"breakfast,snack",vegetarian
+Peanut Butter,188,8.0,6.0,16.0,"breakfast,snack","vegetarian,vegan"
+Turkey Breast,135,30.0,0.0,0.5,"lunch,dinner",low-carb
