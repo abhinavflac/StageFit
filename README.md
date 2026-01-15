@@ -14,7 +14,7 @@ A comprehensive fitness and wellness management system built with Python and Str
 ## 🚀 Installation
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/GithubMaster-in/StageFit.git
+git clone https://github.com/abhinavflac/StageFit.git
 ```
 
 ### 2. Navigate to the project directory:
@@ -114,9 +114,10 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 ---
 
 ## 👨‍💻 Created By
-**GithubMaster-IN**
+**abhinavflac**
 
 ---
 
 ## 📅 Last Updated
 **January 07, 2025**
+
